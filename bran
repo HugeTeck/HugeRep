@@ -1,1 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mod docRevision="0" lang="en_US" modName="ยง3Refined Storage" modid="refinedstorage">
+    
+    <content index="1" renderSlot="false" scale="400" tooltip="true" type="stack">refinedstorage:controller,1,0,{Energy:32000}</content>
+    
+    <content alignment="CENTER" colour="aaaa" index="0" shadow="true" size="2" type="heading">Refined Storage</content>
+	<entry branchId="refinedstorage:controller" icon="name:draconicevolution:draconic_core,size:1,meta:0,nbt:{}" iconType="stack" name="§3Ядра" sortingWeight="40">
+	</entry>
+</mod>
